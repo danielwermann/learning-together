@@ -12,6 +12,7 @@ This document outlines the basic learning curriculum for all software developers
   1. [Visual Studio](#visual-studio)
   1. [SQL Server Management Studio](#sql-server-management-studio)
   1. [Chrome DevTools](#chrome-dev-tools)
+  1. [PluralSight] (#pluralsight)
 
 
 ## HTML & CSS
@@ -53,6 +54,7 @@ Apress' [_Pro Git_][ProGit] book (free download)
 
 
 ## Visual Studio
+MVA - [Microsoft Virtual Academy Visual Studio Courses] (MicrosoftVA)
 ### ReSharper
   1. JetBrain's ReSharper Cheat Sheet ([Visual Studio scheme](ReSharpVS) / [IntelliJ scheme](ReSharpIJ))
    * _Print one out and keep it under your keyboard._
@@ -65,6 +67,9 @@ _Dissecting SQL Server Execution Plans_ by Grant Fritchey
 ## Chrome DevTools
 Code School's [Discover DevTools][DevTools]
 
+
+## PluralSight
+[PluralSight Courses][PluralSight]
 
 [AirbnbJS]:
   https://github.com/airbnb/javascript
@@ -111,3 +116,9 @@ Code School's [Discover DevTools][DevTools]
 [TryjQuery]:
   https://www.codeschool.com/courses/try-jquery
   "Try jQuery"
+[MicrosoftVA]:
+  http://www.microsoftvirtualacademy.com/product-training/visual-studio-courses
+  "Microsoft Virtual Academy"
+[PluralSight]:
+  http://www.pluralsight.com/tags
+  "PluralSight Courses"
